@@ -23,7 +23,7 @@ Ce site est conçu pour être moderne, agréable à parcourir et fidèle à l’
 ```txt
 mon-site-tunisie/
 │
-├── page-d'acceuil.html        → Page d’accueil (hero + destinations + carte + vidéo)
+├── index.html        → Page d’accueil (hero + destinations + carte + vidéo)
 ├── destinations.html          → Liste des 4 destinations principales
 ├── sidi-bou-said.html         → Page détaillée
 ├── tozeur.html                → Page détaillée
@@ -169,4 +169,5 @@ Le site représente pour moi un travail soigné, structuré et inspiré par l’
 
 **Emna YOUSFI**  
 Étudiante en BUT Réseaux & Télécommunications  
+
 
