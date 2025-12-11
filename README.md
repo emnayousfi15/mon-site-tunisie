@@ -1,6 +1,6 @@
 # 🌍 Site Web – Découverte de la Tunisie  
 Projet SAÉ14 – BUT Réseaux & Télécommunications – 1ère année  
-Auteur : **Husein Abdulrahman**  
+Auteur : **Emna YOUSFI**  
 
 ---
 
@@ -169,3 +169,4 @@ Le site représente pour moi un travail soigné, structuré et inspiré par l’
 
 **Emna YOUSFI**  
 Étudiante en BUT Réseaux & Télécommunications  
+
