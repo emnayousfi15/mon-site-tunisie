@@ -368,12 +368,12 @@ h2 {
     color: #333;
 }
 
-.place-image img {
+/* .place-image img {
     width: 100%;
     border-radius: 20px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.18);
     object-fit: cover;
-}
+} */
 
 .highlight-box {
     margin-top: 15px;
@@ -514,4 +514,10 @@ h2 {
     color: #D80027;
     margin-top: 25px;
     margin-bottom: 8px;
+}
+
+.place-image img {
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
 }
