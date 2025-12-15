@@ -515,3 +515,10 @@ h2 {
     margin-top: 25px;
     margin-bottom: 8px;
 }
+
+
+.place-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
