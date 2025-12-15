@@ -1,6 +1,6 @@
 # 🌍 Site Web – Découverte de la Tunisie  
 Projet SAÉ14 – BUT Réseaux & Télécommunications – 1ère année  
-Auteur : ****  
+Auteur : **Emna YOUSFI**  
 
 ---
 
@@ -165,7 +165,17 @@ Le site représente pour moi un travail soigné, structuré et inspiré par l’
 
 ---
 
+
+Gestion de projet/
+│── carte mentale.pdf
+│── planning.pdf
+│── trello.md
+
+
+
+---
 ## 📧 Contact
+emna.yousfi@etu.unicaen.fr
 
 **Emna YOUSFI**  
 Étudiante en BUT Réseaux & Télécommunications  
