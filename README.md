@@ -5,9 +5,8 @@ Auteur : **Emna YOUSFI**
 
 ---
 ## Lien vers le site en ligne
-
-Le site est hébergé via GitHub Pages et accessible à l'adresse suivante : https://emnayousfi15.github.io/mon-site-tunisie/
 ---
+Le site est hébergé via GitHub Pages et accessible à l'adresse suivante : https://emnayousfi15.github.io/mon-site-tunisie/
 
 ## 🎯 Objectif du projet
 
