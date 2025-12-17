@@ -134,17 +134,7 @@ Le code a été vérifié via :
 
 Le site est conforme après corrections.
 
----
-
-## 🚀 Hébergement (GitHub Pages)
-
-Le site est disponible ici :  
-👉 **https://VOTRE-USERNAME.github.io/mon-site-tunisie/**  
-*(À remplacer lors de la mise en ligne)*
-
----
-
-## 🖼 Captures d’écran (à ajouter)
+## 🖼 Captures d’écran 
 
 - Page d’accueil  
 - Page destinations  
