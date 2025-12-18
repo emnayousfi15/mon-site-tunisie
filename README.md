@@ -134,13 +134,6 @@ Le code a été vérifié via :
 
 Le site est conforme après corrections.
 
-## 🖼 Captures d’écran 
-
-- Page d’accueil  
-- Page destinations  
-- Page culture  
-- Page à propos  
-
 ---
 
 ## 📌 Conclusion
